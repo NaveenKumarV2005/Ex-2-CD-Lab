@@ -82,4 +82,4 @@ int main() {
 <img width="421" alt="ex2 sc" src="https://github.com/user-attachments/assets/2d5301b7-047c-47a6-a184-b3a209596da5">
 
 # RESULT
-The lexical analyzer is implemented using lex and the output is verified.
+## The lexical analyzer is implemented using lex and the output is verified.
